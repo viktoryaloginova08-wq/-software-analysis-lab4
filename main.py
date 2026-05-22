@@ -2,5 +2,5 @@ f greet(name):
  print(f"Hello, {name}!")
 greet("World")
 
-def SUMMA(a,b): # Имя заглавными буквами, нет пробелов после запятой
+def calculate_sum(a, b):
  return a+b
